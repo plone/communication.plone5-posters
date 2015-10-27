@@ -38,9 +38,11 @@ They should live asap in Path:
 
 https://plone.org/foundation/marketing/marketingprojects/marketingmaterials/plone-5/p5-shakespeare-posters/
 
-Until then you find the latest versions in this repo.
+Until then you find the latest english versions in this repo in the folder ./export-formats/en/pdf .
 
-Please do not use the original files anymore (!) Schema::
+The pdf files in this repo are CMYK colorspace and ready for A2 Format 420x594mm. They include hidden 5mm bleed and cropmarks (use a PDF editor to unveil them).
+
+Please do not use the original files from september anymore (!) name schema::
 
     [topic]-opensans-roboto-20150925.pdf
     
