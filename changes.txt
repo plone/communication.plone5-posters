@@ -1,5 +1,13 @@
 # changes.txt
 
-20151026_11-23-17 Armin  Stross-Radschinski  developer@acsr.de
+20151026_11-23-17 Armin Stross-Radschinski  developer@acsr.de
 
 * Initial release for review
+
+20151027 Paul Roeland 
+
+* Initial public release
+
+20151027_14-48-07  Armin Stross-Radschinski  developer@acsr.de
+
+* Updated docs related to current release PDF
