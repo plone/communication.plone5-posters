@@ -31,20 +31,19 @@ Technical
 * Please add a note in the history for every translated version including links to the related source files of the translation
 * If you have the skills, add the translation as addional layers with language prefix in the master.
 
-Download the posters as PDF
-===========================
+Download the current release posters as PDF
+===========================================
 
-Path: https://plone.org/foundation/marketing/marketingprojects/marketingmaterials/plone-5/p5-shakespeare-posters/p5-shakespeare-posters-20150925
+They should live asap in Path: 
 
-original file names (do not use further!)::
+https://plone.org/foundation/marketing/marketingprojects/marketingmaterials/plone-5/p5-shakespeare-posters/
 
-    accessibility-opensans-roboto-20150925.pdf
-    content-opensans-roboto-20150925.pdf
-    extensibility-opensans-roboto-20150925.pdf
-    security-opensans-roboto-20150925.pdf
-    technology-opensans-roboto-20150925.pdf
-    theming-opensans-roboto-20150925.pdf
+Until then you find the latest versions in this repo.
 
+Please do not use the original files anymore (!) Schema::
+
+    [topic]-opensans-roboto-20150925.pdf
+    
 Download the Adobe Illustrator master and font file archive.
 ============================================================
 
