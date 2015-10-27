@@ -1,0 +1,5 @@
+# changes.txt
+
+20151026_11-23-17 Armin  Stross-Radschinski  developer@acsr.de
+
+* Initial release for review

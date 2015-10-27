@@ -1,0 +1,10 @@
+# history.txt
+
+
+20151027 Paul Roeland paul.roeland@plone.org
+
+* check licensing, spelling
+
+20151026_11-23-17 Armin  Stross-Radschinski  developer@acsr.de
+
+* Initial release for review
