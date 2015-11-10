@@ -1,5 +1,7 @@
 # history.txt
+20151110 Coen van der Kamp coen@zestsoftware.nl
 
+* Add Dutch translations
 
 20151027 Paul Roeland paul.roeland@plone.org
 
